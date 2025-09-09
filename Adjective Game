@@ -1,0 +1,4 @@
+name = input("Enter a name: ")
+adjective = input("Enter an adjective: ")
+noun = input("Enter a noun: ")
+print(name + " is a very " + adjective + " " + noun + "!")
